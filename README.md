@@ -30,7 +30,7 @@
 - [Developer Notes](#developer-notes)
 - [Contact](#contact)
 
----
+live demo:https://nimrasohail332.github.io/dynamics360-case-study/
 
 ## Project Overview
 
